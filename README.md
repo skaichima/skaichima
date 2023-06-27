@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @skaichima
 - 👀 I’m interested in Frontend web development.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently focused on React.js
 - 📫 You can reach me on my mail: Skaichima@gmail.com
